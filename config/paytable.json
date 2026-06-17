@@ -1,0 +1,180 @@
+{
+  "payouts": [
+    {
+      "symbol": "Cherry",
+      "payments": [
+        {
+          "count": 3,
+          "payout": 1
+        },
+        {
+          "count": 4,
+          "payout": 2
+        },
+        {
+          "count": 5,
+          "payout": 5
+        }
+      ]
+    },
+    {
+      "symbol": "Lemon",
+      "payments": [
+        {
+          "count": 3,
+          "payout": 1
+        },
+        {
+          "count": 4,
+          "payout": 2
+        },
+        {
+          "count": 5,
+          "payout": 5
+        }
+      ]
+    },
+    {
+      "symbol": "Plum",
+      "payments": [
+        {
+          "count": 3,
+          "payout": 2
+        },
+        {
+          "count": 4,
+          "payout": 5
+        },
+        {
+          "count": 5,
+          "payout": 10
+        }
+      ]
+    },
+    {
+      "symbol": "Orange",
+      "payments": [
+        {
+          "count": 3,
+          "payout": 2
+        },
+        {
+          "count": 4,
+          "payout": 5
+        },
+        {
+          "count": 5,
+          "payout": 10
+        }
+      ]
+    },
+    {
+      "symbol": "Watermelon",
+      "payments": [
+        {
+          "count": 3,
+          "payout": 5
+        },
+        {
+          "count": 4,
+          "payout": 10
+        },
+        {
+          "count": 5,
+          "payout": 20
+        }
+      ]
+    },
+    {
+      "symbol": "Bar",
+      "payments": [
+        {
+          "count": 3,
+          "payout": 10
+        },
+        {
+          "count": 4,
+          "payout": 20
+        },
+        {
+          "count": 5,
+          "payout": 50
+        }
+      ]
+    },
+    {
+      "symbol": "Seven",
+      "payments": [
+        {
+          "count": 3,
+          "payout": 20
+        },
+        {
+          "count": 4,
+          "payout": 50
+        },
+        {
+          "count": 5,
+          "payout": 100
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": 1,
+      "name": "Center Line",
+      "positions": [
+        [ 1 ],
+        [ 1 ],
+        [ 1 ],
+        [ 1 ],
+        [ 1 ]
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Top Line",
+      "positions": [
+        [ 0 ],
+        [ 0 ],
+        [ 0 ],
+        [ 0 ],
+        [ 0 ]
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bottom Line",
+      "positions": [
+        [ 2 ],
+        [ 2 ],
+        [ 2 ],
+        [ 2 ],
+        [ 2 ]
+      ]
+    },
+    {
+      "id": 4,
+      "name": "V Shape",
+      "positions": [
+        [ 0 ],
+        [ 1 ],
+        [ 2 ],
+        [ 1 ],
+        [ 0 ]
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Inverted V",
+      "positions": [
+        [ 2 ],
+        [ 1 ],
+        [ 0 ],
+        [ 1 ],
+        [ 2 ]
+      ]
+    }
+  ]
+}
